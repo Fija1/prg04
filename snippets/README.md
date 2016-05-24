@@ -2,9 +2,11 @@
 
 ## Code Snippets
 - Leeg startproject voor VS Code
-- CSS Keyframes en timeline
-- CSS Transition
-- Javascript requestAnimationFrame
+- CSS Animation met keyframes en transition
+- RequestAnimationFrame
+- Canvas Spritesheet
+- TweenLite library
+- Vector, Rectangle Math
 
 ## Tutorials
 - [CSS Filters](https://css-tricks.com/almanac/properties/f/filter/)
@@ -16,3 +18,6 @@
 - [Typescript documentation](https://www.typescriptlang.org/docs/tutorial.html)
 - [Git Quickstart Tutorial](https://try.github.io/levels/1/challenges/1)
 - [What is the viewport?](https://developer.mozilla.org/en/docs/Mozilla/Mobile/Viewport_meta_tag)
+
+## Assets
+- [Open Game Art](http://opengameart.org)
